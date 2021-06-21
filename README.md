@@ -1,5 +1,3 @@
 # kokoa clone
 
-CSS get so much better!;
-dd
-d
+HTML % CSS are so much fun!
